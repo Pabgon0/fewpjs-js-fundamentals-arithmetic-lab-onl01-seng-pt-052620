@@ -1,1 +1,1 @@
-var multiply = 2 * 
+let multiply = 2 * 31
